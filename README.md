@@ -91,8 +91,7 @@ GSE42861, GSE179325, GSE111223, GSE113725, GSE128235, GSE44132, GSE198904, GSE20
 
 - **[SteeraMed](https://steeramed.com)** — the broader framework
 - **[DeepoMe](https://steeramed.com)** — the organization behind this work
-- **[Podcast (Chinese)](https://www.xiaoyuzhoufm.com/episode/6aa7b8d39d3264778168ed6e)** — "Saturday 9:30": When AI enters longevity medicine
-- **[SteeraMed-RootMap](https://github.com/DeepoMe/SteeraMed-RootMap)** — companion aging-dependency repository
+- **[SteeraMed-RootMap](https://github.com/DeepoMe/SteeraMed-RootMap)** — companion aging-dependency repository (with paper audio & alphaXiv discussion)
 - **[SteeraMed-bench](https://github.com/DeepoMe/SteeraMed-bench)** — companion benchmark repository
 
 ## License
@@ -148,7 +147,5 @@ MIT（代码）/ CC BY 4.0（数据与文档）
 ## 联系方式
 
 熊江辉 — [jianghui@deepome.com](mailto:jianghui@deepome.com)
-
-[播客回听（小宇宙"周六9点半"）](https://www.xiaoyuzhoufm.com/episode/6aa7b8d39d3264778168ed6e)
 
 [DeepoMe](https://steeramed.com) · [SteeraMed](https://steeramed.com)
