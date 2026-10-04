@@ -3,8 +3,8 @@
 # MorbiMap: Prescribing Without a Disease Diagnosis?
 # MorbiMap：不依赖疾病诊断的处方排序？
 
-**Direct Intervention Ranking from Molecular Profiles for the Multimorbidity Challenge**
-**从分子谱直接排序候选干预·面向多病共存挑战**
+**Direct Intervention Ranking from a Health State-Representation Map for the Multimorbidity Challenge**
+**从健康状态表征地图直接排序候选干预·面向多病共存挑战**
 
 [![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -20,10 +20,11 @@
 
 <a name="english"></a>
 
-## Can a molecular profile rank candidate drugs — without a disease label?
+## Can a health state-representation map rank candidate drugs — without a disease label?
 
 MorbiMap is a candidate-ranking component of [SteeraMed](https://steeramed.com).
-It connects module-level molecular profiles with frozen drug–module relevance
+It connects a health state-representation map — the module-weighted representation of
+a molecular profile — with frozen drug–module relevance
 tables and uses a fixed scoring program to rank candidate drugs — **without
 requiring a disease label as input to the scoring function**.
 
@@ -79,7 +80,7 @@ GSE42861, GSE179325, GSE111223, GSE113725, GSE128235, GSE44132, GSE198904, GSE20
 ```bibtex
 @preprint{xiong2026morbidmap,
   title={Prescribing Without a Disease Diagnosis? Direct Intervention Ranking
-         from Molecular Profiles for the Multimorbidity Challenge},
+         from a Health State-Representation Map for the Multimorbidity Challenge},
   author={Xiong, Jianghui},
   year={2026},
   note={Preprint. Code and frozen artifacts:
@@ -106,10 +107,10 @@ Jianghui Xiong — [jianghui@deepome.com](mailto:jianghui@deepome.com)
 
 <a name="中文"></a>
 
-## 分子谱能否直接排序候选药物——不需要疾病标签？
+## 健康状态表征地图能否直接排序候选药物——不需要疾病标签？
 
 MorbiMap 是 [SteeraMed](https://steeramed.com) 框架的候选排序组件。
-它将模块级分子谱与冻结的药物-模块关联表连接，用固定评分程序排序候选药物——**评分函数不需要疾病标签输入**。
+它将健康状态表征地图（分子谱的模块加权表征）与冻结的药物-模块关联表连接，用固定评分程序排序候选药物——**评分函数不需要疾病标签输入**。
 
 ### 研究设计一览
 
