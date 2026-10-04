@@ -8,7 +8,7 @@
 
 [![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Preprint-v1-orange)](https://github.com/DeepoMe/SteeraMed-MorbidMap/releases/tag/v1)
+[![Paper](https://img.shields.io/badge/Preprint-v1-orange)](https://github.com/DeepoMe/SteeraMed-MorbiMap/releases/tag/v1)
 
 </div>
 
@@ -84,7 +84,7 @@ GSE42861, GSE179325, GSE111223, GSE113725, GSE128235, GSE44132, GSE198904, GSE20
   author={Xiong, Jianghui},
   year={2026},
   note={Preprint. Code and frozen artifacts:
-        https://github.com/DeepoMe/SteeraMed-MorbidMap}
+        https://github.com/DeepoMe/SteeraMed-MorbiMap}
 }
 ```
 
