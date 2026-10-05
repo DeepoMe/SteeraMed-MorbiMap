@@ -9,6 +9,7 @@
 [![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Preprint-v1-orange)](https://github.com/DeepoMe/SteeraMed-MorbiMap/releases/tag/v1)
+[![ResearchGate](https://img.shields.io/badge/Preprint-ResearchGate-orange)](https://www.researchgate.net/publication/415224694_Prescribing_Without_a_Disease_Diagnosis_Direct_Intervention_Ranking_from_a_Health_State-Representation_Map_for_the_Multimorbidity_Challenge)
 
 </div>
 
@@ -90,6 +91,7 @@ GSE42861, GSE179325, GSE111223, GSE113725, GSE128235, GSE44132, GSE198904, GSE20
 
 ## Links
 
+- **[Paper (ResearchGate version)](https://www.researchgate.net/publication/415224694_Prescribing_Without_a_Disease_Diagnosis_Direct_Intervention_Ranking_from_a_Health_State-Representation_Map_for_the_Multimorbidity_Challenge)** — preprint version; DOI to follow on preprints.org
 - **[SteeraMed](https://steeramed.com)** — the broader framework
 - **[DeepoMe](https://steeramed.com)** — the organization behind this work
 - **[SteeraMed-RootMap](https://github.com/DeepoMe/SteeraMed-RootMap)** — companion aging-dependency repository (with paper audio & alphaXiv discussion)
